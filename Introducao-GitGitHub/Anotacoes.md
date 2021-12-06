@@ -1,8 +1,12 @@
 # GIT
 
+Link de download Git: https://git-scm.com/download/win
+
 ## Git e a sua importância
 
 - Git ajuda a criar e monitorar diferentes versões do nosso código, dentro de nossa máquina;
+
+- Git Bash é um terminal estendido para otimizar o uso do Git.
 
 - Benefícios: Controle de versão, Armazenamento em nuvem, Trabalho em equipe; Melhorar seu código; Reconhecimento.
 
