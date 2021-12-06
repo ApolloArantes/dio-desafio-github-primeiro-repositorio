@@ -30,3 +30,8 @@
 
 
 
+## Objetos internos do Git
+
+- Blobs - contém metadados do objeto como tamanho da sting, tipo do objeto, entre outros;
+- Tree - armazenam blobs e também contem metadados. A tree monta toda estrutura de localização do arquivo e pode apontar para blobs e para tree;
+- Commits - são únicos para cada autor. Aponta para tree e um parente (commit).
