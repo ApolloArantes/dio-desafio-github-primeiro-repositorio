@@ -57,6 +57,6 @@ git commit -m "incluir descrição da alteração" -> git status -> git push ori
 ## Resolvendo conflitos
 Quando o arquivo do repositório for diferente do arquivo local, aparecerá mensagem de erro ao tentar empurra o arquivo da máquina para o reposiitório. Dessa forma é preciso integrar o arquivo local, antes de empurrar para o repositório.
 Como integrar:
-git pull origin master 'Verifica e atualiza o arquivo' ->  git status ->
+git pull origin main ->  git status ->
 git add * -> git commit -m "texto sobre conflito" -> git push origin master
 
