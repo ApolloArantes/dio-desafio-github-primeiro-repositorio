@@ -16,7 +16,7 @@
 ### Comandos básicos para um bom desempenho no terminal
 
 
-
+- branch -M - renomear branch principal
 - dir - lista todas as pastas
 - cd - navegar entre as pastas (se digitar "cd /" a barra direciona para um caminho específico no diretório C)
 - cd .. - retroceder um nível
